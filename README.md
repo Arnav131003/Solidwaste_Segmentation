@@ -1,1 +1,1 @@
-# Solidwaste_Detection
+# Solidwaste_Segmentation
